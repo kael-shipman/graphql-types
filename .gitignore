@@ -1,0 +1,3 @@
+dist
+*.sw[op]
+node_modules
